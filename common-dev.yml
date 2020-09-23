@@ -3,7 +3,7 @@ spring:
   mail:
     host: smtp.qq.com #发送邮件服务器
     username: 11917558681@qq.com #发送邮件的邮箱地址
-    password: kwtwkjsrzqywijgj
+    password: botqnjozxvlyijhf
     properties.mail.smtp.port: 587
     from: 11917558681@qq.com # 发送邮件的地址，和上面username一致
     to: huangbingyu@megvii.com
