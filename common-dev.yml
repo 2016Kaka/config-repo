@@ -5,7 +5,7 @@ spring:
     username: 1191758681@qq.com #发送邮件的邮箱地址
     password: botqnjozxvlyijhf
     properties.mail.smtp.port: 587
-    from: 11917558681@qq.com # 发送邮件的地址，和上面username一致
+    from: 1191758681@qq.com # 发送邮件的地址，和上面username一致
     to: 1191758681@qq.com
 abc:
   config: 34566
